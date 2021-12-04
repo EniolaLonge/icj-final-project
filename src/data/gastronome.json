@@ -1,0 +1,23 @@
+{
+    "dining": [
+        {
+        "name": "Fine Dining",
+        "slug": "fine-dining",
+        "intro": "A list of high-end restuarants perfect for birthday celebrations, wedding anniversaries, retirement parties etc.",
+        "image": "img/Fine Dining 2.jpeg",
+        "restaurantListName": "East Austin Restaurants",
+        "restuarantList": ["Suerte", "The Liberty", "The White House"]
+        },
+        {
+            "name": "Healthy Eats",
+            "slug": "healthy-eats",
+            "intro": "Fitfam is great when you have the resources at your fingertips. Here's a list of restaurants that offer tasty but healthy meals. Check out our healthy eats restaurants.",
+            "image": "img/Healthy Eats 2.jpeg",
+            "restaurantListName": "Cedar Park Restaurants",
+            "restuarantList": ["Freshii", "Kale Me Crazy", "Mad Green"]    
+        },
+        {
+            
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+// Custom variable overrides
+// See node_modules/bootstrap/scss/_variables.scss
+
+// $body-bg: black;
+// $body-color: white;
+// $link-hover-color: grey;
+// $font-family-sans-serif: "Helvetica Neue";
+
+/* bootstrap */
+// Option A: Include all of Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Option B: Include parts of Bootstrap
+// See https://getbootstrap.com/docs/4.1/getting-started/theming/#importing
+
+// Required
+// @import "../../node_modules/bootstrap/scss/functions";
+// @import "../../node_modules/bootstrap/scss/variables";
+// @import "../../node_modules/bootstrap/scss/mixins"; 
+
+// Import partials
+@import "nav";
+
+body {
+  background-color: white;
+}
+img {
+  border-style: solid;
+  border-color: lightsalmon;
+  border-width: 20px;
+  border-radius: 50%;
+  border-top-style: solid;
+  border-bottom: auto;
+  margin: 30px;
+  height: auto;
+}
+#Welcome {
+  color: #ff0022;
+  font-size: 48px;
+  font-family: 'Times New Roman', Times, serif;
+  border-style: solid;
+  border-color: lightsalmon;
+  border-bottom-width: auto;
+  padding-bottom: 10px;
+}
+.Red-color {
+  color: red;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 24px;
+}
