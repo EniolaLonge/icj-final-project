@@ -14,10 +14,7 @@
             "intro": "Fitfam is great when you have the resources at your fingertips. Here's a list of restaurants that offer tasty but healthy meals. Check out our healthy eats restaurants.",
             "image": "img/Healthy Eats 2.jpeg",
             "restaurantListName": "Cedar Park Restaurants",
-            "restuarantList": ["Freshii", "Kale Me Crazy", "Mad Green"]    
-        },
-        {
-            
+            "restuarantList": ["Freshii", "Kale Me Crazy", "Mad Green"]
         }
     ]
 }
